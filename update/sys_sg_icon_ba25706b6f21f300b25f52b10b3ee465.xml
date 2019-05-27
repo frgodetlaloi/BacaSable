@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"Font Awesome 5 Free","Value":"f024","FontColor":"#7D7D7D","BackgroundColor":"#7D7D7D","Name":"flag"}</icon>
+        <name>flag</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-27 05:12:32</sys_created_on>
+        <sys_id>ba25706b6f21f300b25f52b10b3ee465</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>flag</sys_name>
+        <sys_package display_value="Bac_a_Sable" source="x_76297_bas">ce6478af6fadb300b25f52b10b3ee42c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bac_a_Sable">ce6478af6fadb300b25f52b10b3ee42c</sys_scope>
+        <sys_update_name>sys_sg_icon_ba25706b6f21f300b25f52b10b3ee465</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-27 05:12:32</sys_updated_on>
+    </sys_sg_icon>
+</record_update>

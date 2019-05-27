@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Lance le service portal dans un navigateur</description>
+        <external_browser>true</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="flag">8be5b06b6f21f300b25f52b10b3ee4c5</icon>
+        <name>Portail Browser</name>
+        <order>20</order>
+        <parent>66c4706b6f21f300b25f52b10b3ee460</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-27 05:16:19</sys_created_on>
+        <sys_id>dbe57c2b6f21f300b25f52b10b3ee4aa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Portail Browser</sys_name>
+        <sys_package display_value="Bac_a_Sable" source="x_76297_bas">ce6478af6fadb300b25f52b10b3ee42c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bac_a_Sable">ce6478af6fadb300b25f52b10b3ee42c</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_dbe57c2b6f21f300b25f52b10b3ee4aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-27 05:16:40</sys_updated_on>
+        <url>https://dev28485.service-now.com/sp</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=dbe57c2b6f21f300b25f52b10b3ee4aa"/>
+</record_update>
